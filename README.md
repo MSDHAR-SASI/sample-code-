@@ -1,1 +1,2 @@
-# sample-code-
+git clone https://github.com/MSDHAR-SASI/sample-code-with-sasidhar.git
+cd sample-code-with-sasidhar
