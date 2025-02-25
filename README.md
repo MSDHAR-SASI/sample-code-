@@ -10,6 +10,6 @@ cd sample-code-with-sasidhar
     <title>sample-code-with-sasidhar</title>
 </head>
 <body>
-    <h1>Hello, my name is [Sasidhar Modepalli]!</h1>
+    <h1>Hello, my name is Sasidhar Modepalli</h1>
 </body>
 </html>
